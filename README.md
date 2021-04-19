@@ -1,6 +1,6 @@
  # Toggle_Button-Dark-an-Light-Mode
 
-## tecnologias usadas
+## technologies used
 
 * html
 * css
